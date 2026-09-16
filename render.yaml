@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: financial-contagion-resilience-lab
+    runtime: docker
+    healthCheckPath: /api/health

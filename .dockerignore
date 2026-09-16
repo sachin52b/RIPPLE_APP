@@ -1,0 +1,7 @@
+.git
+.pnpm-store
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+backend/persistence/runs/
